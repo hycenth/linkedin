@@ -1,0 +1,57 @@
+#Fancy-header {
+    width: 34%;
+}
+
+#fancy1-header1 {
+    position: relative;
+    top: 5rem;
+    line-height: 3;
+}
+
+#fancy1-header1 .fancy-header_content {
+    padding: 1.5rem 0rem 0rem 0rem;
+    font-size: 2rem;
+}
+
+#fancy1-header1 .fancy-hearder_content_2 {
+    padding: 0.7rem 0rem 3rem 0rem;
+    line-height: 0rem;
+    color: gray;
+}
+
+#Fancy-header .form-email {
+    position: relative;
+    bottom: 1rem;
+    border: 4px;
+}
+
+.footer {
+    position: relative;
+}
+
+.form-group #password-visibility-toggle {
+    position: absolute;
+    top: 14px;
+    right: 4px;
+}
+
+#work {
+    display: table;
+    top: 2.7rem;
+}
+
+#work .table-form {
+    display: table-cell;
+    text-decoration: none;
+}
+
+.last {
+    position: relative;
+    right: 30rem;
+    top: 4rem;
+    line-height: 1;
+}
+
+.downside {
+    color: gray;
+}
